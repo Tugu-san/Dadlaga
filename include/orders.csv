@@ -1,0 +1,4 @@
+Order_ID,Customer_ID,Customer_Name,Product,Quantity,Price,Order_Date,Region
+1001,1,Nara T.,Book,3,12.99,2023-11-01,North
+1002,2,Bataa M.,Pen,10,1.99,2023-11-02,West
+1003,3,Tamara B.,Notebook,2,5.49,2023-11-02,East

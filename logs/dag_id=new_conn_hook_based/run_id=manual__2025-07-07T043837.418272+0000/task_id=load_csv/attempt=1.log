@@ -1,0 +1,12 @@
+{"timestamp":"2025-07-07T04:38:44.300099","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T04:38:44.301604","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/new_conn.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T04:38:44.519837Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:44.520291Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:44.656493Z","level":"info","event":"Current task name:load_csv","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:44.657205Z","level":"info","event":"Dag name:new_conn_hook_based","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:44.753152","level":"info","event":"Secrets backends loaded for worker","count":1,"backend_classes":["EnvironmentVariablesBackend"],"logger":"supervisor"}
+{"timestamp":"2025-07-07T04:38:44.763142","level":"info","event":"Connection Retrieved 'source_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-07T04:38:45.198531","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-07T04:38:45.248938Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:45.249504Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T04:38:45.249905Z","level":"info","event":"Task operator:<Task(PythonOperator): load_csv>","chan":"stdout","logger":"task"}

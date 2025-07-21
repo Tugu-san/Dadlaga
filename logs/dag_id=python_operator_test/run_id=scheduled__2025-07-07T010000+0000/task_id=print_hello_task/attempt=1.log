@@ -1,0 +1,11 @@
+{"timestamp":"2025-07-07T01:30:49.748113","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T01:30:49.748878","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/python_operator_test.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T01:30:49.803608Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.804053Z","level":"info","event":" Previous state of the Task instance: queued","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.805145Z","level":"info","event":"Current task name:print_hello_task","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.805404Z","level":"info","event":"Dag name:python_operator_test","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.805641Z","level":"info","event":"Hello from PythonOperator!","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.805863Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.806100Z","level":"info","event":" Previous state of the Task instance: running","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.806293Z","level":"info","event":"Task operator:<Task(PythonOperator): print_hello_task>","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T01:30:49.768296","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

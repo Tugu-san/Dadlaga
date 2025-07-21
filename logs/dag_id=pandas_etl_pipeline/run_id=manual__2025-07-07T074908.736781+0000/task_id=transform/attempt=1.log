@@ -1,0 +1,11 @@
+{"timestamp":"2025-07-07T07:49:20.205119","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T07:49:20.205774","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T07:49:20.297179Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:20.297531Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:20.298180Z","level":"info","event":"Current task name:transform","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:20.298766Z","level":"info","event":"Dag name:pandas_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:22.863992","level":"info","event":"Done. Returned value was: /opt/airflow/include/sales_summary.csv","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-07T07:49:22.864340","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('0197e3dc-340f-7de7-98a4-2c862ed402b7'), task_id='transform', dag_id='pandas_etl_pipeline', run_id='manual__2025-07-07T07:49:08.736781+00:00', try_number=1, map_index=-1, hostname='db04d2317980', context_carrier={}, task=<Task(PythonOperator): transform>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 7, 7, 7, 49, 18, 461799, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
+{"timestamp":"2025-07-07T07:49:22.914799Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:22.915117Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:49:22.915394Z","level":"info","event":"Task operator:<Task(PythonOperator): transform>","chan":"stdout","logger":"task"}

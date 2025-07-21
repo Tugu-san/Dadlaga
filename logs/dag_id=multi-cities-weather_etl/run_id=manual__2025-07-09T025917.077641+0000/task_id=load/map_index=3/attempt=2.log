@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-09T03:04:22.990804","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-09T03:04:22.991690","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-09T03:04:23.416343","level":"info","event":"Connection Retrieved 'source_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-09T03:04:23.429176","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}

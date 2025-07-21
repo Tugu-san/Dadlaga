@@ -1,0 +1,11 @@
+{"timestamp":"2025-07-07T07:45:01.650830","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T07:45:01.651438","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T07:45:01.920148Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:01.920700Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:01.921861Z","level":"info","event":"Current task name:extract","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:01.922227Z","level":"info","event":"Dag name:polars_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:02.013579","level":"info","event":"Done. Returned value was: /opt/airflow/include/orders.parquet","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-07T07:45:02.014109","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('0197e3d8-5f07-71cd-a880-bf4439983424'), task_id='extract', dag_id='polars_etl_pipeline', run_id='manual__2025-07-07T07:44:57.578517+00:00', try_number=1, map_index=-1, hostname='db04d2317980', context_carrier={}, task=<Task(PythonOperator): extract>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 7, 7, 7, 44, 58, 965873, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
+{"timestamp":"2025-07-07T07:45:02.089201Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:02.090275Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:45:02.091441Z","level":"info","event":"Task operator:<Task(PythonOperator): extract>","chan":"stdout","logger":"task"}

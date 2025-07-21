@@ -1,0 +1,11 @@
+{"timestamp":"2025-07-07T07:50:08.374697","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T07:50:08.375488","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T07:50:08.419765Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:08.420113Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:08.468128Z","level":"info","event":"Current task name:extract","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:08.468517Z","level":"info","event":"Dag name:pandas_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:16.112611","level":"info","event":"Done. Returned value was: /opt/airflow/include/online_retail_II.csv","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-07T07:50:16.112983","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('0197e3dd-18db-7674-88ee-11f2041a2a11'), task_id='extract', dag_id='pandas_etl_pipeline', run_id='manual__2025-07-07T07:50:07.298347+00:00', try_number=1, map_index=-1, hostname='db04d2317980', context_carrier={}, task=<Task(PythonOperator): extract>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=0, start_date=datetime.datetime(2025, 7, 7, 7, 50, 7, 893704, tzinfo=TzInfo(UTC)), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None)","logger":"task"}
+{"timestamp":"2025-07-07T07:50:16.142537Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:16.145018Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T07:50:16.145355Z","level":"info","event":"Task operator:<Task(PythonOperator): extract>","chan":"stdout","logger":"task"}

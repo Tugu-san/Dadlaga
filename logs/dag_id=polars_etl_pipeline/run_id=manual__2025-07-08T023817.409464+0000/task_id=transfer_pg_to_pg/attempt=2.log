@@ -1,0 +1,5 @@
+{"timestamp":"2025-07-08T02:41:16.015160","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-08T02:41:16.015715","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-08T02:41:16.216974","level":"info","event":"Connection Retrieved 'source_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-08T02:41:16.230737","level":"info","event":"Connection Retrieved 'source_dest'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-08T02:43:32.169439","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

@@ -1,0 +1,12 @@
+{"timestamp":"2025-07-07T08:36:01.860010","level":"info","event":"DAG bundles loaded: dags-folder, example_dags","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-07T08:36:01.860967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/ETL_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-07T08:36:01.941997Z","level":"info","event":"Task instance is in running state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:36:01.942803Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.QUEUED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:36:01.944147Z","level":"info","event":"Current task name:load_to_pg1","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:36:01.944534Z","level":"info","event":"Dag name:pandas_etl_pipeline","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:36:03.138316","level":"warning","event":"/opt/airflow/dags/ETL_example.py:22: DtypeWarning: Columns (0) have mixed types. Specify dtype option on import or set low_memory=False.\n  df = pd.read_csv(file_path)\n","logger":"py.warnings"}
+{"timestamp":"2025-07-07T08:36:03.418958","level":"info","event":"Connection Retrieved 'source_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-07T08:40:08.648576","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-07T08:40:08.664869Z","level":"info","event":"Task instance in success state","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:40:08.665247Z","level":"info","event":" Previous state of the Task instance: TaskInstanceState.RUNNING","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-07T08:40:08.665460Z","level":"info","event":"Task operator:<Task(PythonOperator): load_to_pg1>","chan":"stdout","logger":"task"}
