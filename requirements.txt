@@ -1,0 +1,6 @@
+polars
+matplotlib
+scikit-learn
+seaborn
+beautifulsoup4
+lxml
