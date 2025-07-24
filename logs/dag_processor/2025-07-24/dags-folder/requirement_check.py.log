@@ -798,3 +798,16 @@
 {"timestamp":"2025-07-24T09:00:36.788710","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:08.160888","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:39.242205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:10.194322","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:41.372069","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:12.431176","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:43.488884","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:14.654614","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:46.049722","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:17.472250","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:48.722200","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:19.609093","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:51.261912","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:22.700359","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:53.860748","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:08:24.647926","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/requirement_check.py","logger":"airflow.models.dagbag.DagBag"}

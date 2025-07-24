@@ -792,3 +792,17 @@
 {"timestamp":"2025-07-24T09:00:19.679630","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:00:51.116626","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:22.312127","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:01:53.440799","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:24.623260","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:55.685381","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:26.638435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:57.854422","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:28.965110","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:00.454890","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:31.858084","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:03.122746","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:34.101212","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:05.632670","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:36.409307","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:08:07.336920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:08:38.961699","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}

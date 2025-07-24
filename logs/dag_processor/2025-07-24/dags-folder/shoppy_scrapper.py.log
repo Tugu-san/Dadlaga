@@ -800,3 +800,16 @@
 {"timestamp":"2025-07-24T09:00:36.602561","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:07.916952","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:38.898709","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:09.965305","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:41.156030","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:12.220036","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:43.223613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:14.270710","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:45.753001","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:17.219852","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:48.433324","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:19.315075","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:50.893241","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:22.387706","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:53.570080","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:08:24.409470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}

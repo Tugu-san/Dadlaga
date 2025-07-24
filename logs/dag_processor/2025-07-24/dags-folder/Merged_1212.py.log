@@ -795,3 +795,16 @@
 {"timestamp":"2025-07-24T09:00:35.716708","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:07.274615","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:01:38.110955","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:09.311268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:02:40.468282","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:11.543975","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:03:42.598146","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:13.340646","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:04:44.941794","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:16.564852","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:05:47.741825","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:18.566977","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:06:50.084477","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:21.664518","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:07:52.866237","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:08:23.799614","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
