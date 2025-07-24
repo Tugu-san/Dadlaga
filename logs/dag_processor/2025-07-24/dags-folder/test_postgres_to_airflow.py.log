@@ -806,3 +806,6 @@
 {"timestamp":"2025-07-24T09:07:36.409307","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:08:07.336920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T09:08:38.961699","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:09:10.104357","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:09:41.179016","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:10:12.327838","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
