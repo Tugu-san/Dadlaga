@@ -1,0 +1,5 @@
+{"timestamp":"2025-07-24T00:59:22.418413","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-24T00:59:22.419344","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T00:59:25.559448Z","level":"info","event":"{'message_id': '<202507240059.81098173979@smtp-relay.mailin.fr>',","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-24T00:59:25.560199Z","level":"info","event":" 'message_ids': None}","chan":"stdout","logger":"task"}
+{"timestamp":"2025-07-24T00:59:25.562920","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

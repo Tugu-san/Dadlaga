@@ -4,3 +4,6 @@ scikit-learn
 seaborn
 beautifulsoup4
 lxml
+sib_api_v3_sdk
+mailjet-rest
+requests
