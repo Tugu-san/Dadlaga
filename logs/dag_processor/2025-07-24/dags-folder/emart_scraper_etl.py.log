@@ -795,3 +795,5 @@
 {"timestamp":"2025-07-24T08:58:04.683007","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T08:58:34.835327","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T08:59:04.992110","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T08:59:36.049692","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:00:06.354956","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}

@@ -792,3 +792,5 @@
 {"timestamp":"2025-07-24T08:58:04.859336","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T08:58:35.029758","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-24T08:59:05.203083","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T08:59:36.291404","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-24T09:00:06.541288","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
