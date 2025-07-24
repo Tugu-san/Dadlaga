@@ -1,35 +1,15 @@
 from airflow import DAG
-from airflow.operators.python import PythonOperator
 from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 
-def my_function(start_date):
-    print(f"Task started on: {start_date}")
-    return "Task completed successfully"
-
 with DAG(
-    dag_id='Context_practice_DAG',
-    start_date=datetime(2024, 8, 1),
-    schedule='@daily',
-    catchup=False,
-    default_args={
-        'owner': 'airflow',
-        'retries': 1,
-        'retry_delay': timedelta(minutes=5)
-    }
-) as dag:
-
-    task1 = PythonOperator(
-        task_id='print_start_date',
-        python_callable=my_function,
-        op_kwargs={'start_date': '{{ ds }}'},
-        dag=dag
+    dag_id="fetch_events",
+    schedule="@daily", #өдөр болгон 00:00 цагт
+    start_date=datetime(2025, 1, 1) #2025 оны 1 сарын 1-с
+)as dag:
+    
+    task = BashOperator(
+        task_id = "fetch_events",
+        bash_command = 'echo "Fetching events from {{ data_interval_start }} to {{ data_interval_end }}"'
     )
-
-    task2 = BashOperator(
-        task_id='print_context',
-        bash_command='echo "DAG ID: {{ dag.dag_id }}, Task ID: {{ task.task_id }}, Execution Date: {{ ds }}"',
-        dag=dag
-    )
-
-    task1 >> task2
+    task

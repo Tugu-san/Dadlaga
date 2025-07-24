@@ -1,6 +1,5 @@
 from airflow.decorators import dag, task
 from datetime import datetime, timedelta
-from airflow.providers.postgres.hooks.postgres import PostgresHook
 import requests
 import pandas as pd
 import psycopg2
@@ -51,9 +50,11 @@ def wheater_multi_etl():
 
     @task()
     def load(rows):
-        pg_hook = PostgresHook(postgres_conn_id="source_postgres")
-        conn = pg_hook.get_conn()
-        cur = conn.cursor()
+        from airflow.providers.postgres.hooks.postgres import PostgresHook
+        pg_hook = PostgresHook(postgres_conn_id="source_postgres") #Airflow UI-д Admin -> Connection хэсэгт нэмж өгнө. 
+        conn = pg_hook.get_conn() #PostgresHook-р дамжуулан database connection объект үүсгэж авна.
+        cur = conn.cursor() #Connection дээр cursor үүсгэж байна. 
+                            #Cursor гэдэг нь SQL query гүйцэтгэх гол механизм.
         cur.execute("""
             CREATE TABLE IF NOT EXISTS multi_city_weather (
                 city TEXT,
@@ -65,7 +66,7 @@ def wheater_multi_etl():
                 last_updated TIMESTAMP
             )
         """)
-        for row in rows:
+        for row in rows: #Мөр бүрийн мэдээллийг multi_city_weather хүснэгт рүү нэг нэгээр нь оруулна.
             cur.execute("""
                 INSERT INTO multi_city_weather (city, country, temperature_c, condition, humidity, wind_kph, last_updated)
                 VALUES (%s, %s, %s, %s, %s, %s, %s)
@@ -73,7 +74,8 @@ def wheater_multi_etl():
                 row['city'], row['country'], row['temperature_c'],
                 row['condition'], row['humidity'], row['wind_kph'],row['last_updated']
             ))
-        conn.commit()
+        conn.commit() #Query-ээр оруулсан мэдээллийг баталгаажуулж, хадгалах үйлдэл хийнэ.
+        #Cursor болон connection-ийг хаана.
         cur.close()
         conn.close()
 
