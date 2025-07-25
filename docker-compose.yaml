@@ -148,17 +148,6 @@ services:
     volumes:
     - pgadmin:/var/lib/pgadmin
 
-  webserver:
-    build: .
-    command: airflow standalone
-    ports:
-      - "8080:8080"
-    environment:
-      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
-      AIRFLOW__CORE__EXECUTOR: "SequentialExecutor"
-      AIRFLOW__CORE__DAGS_FOLDER: "/app/dags"
-    volumes:
-      - ./dags:/app/dags
 
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change

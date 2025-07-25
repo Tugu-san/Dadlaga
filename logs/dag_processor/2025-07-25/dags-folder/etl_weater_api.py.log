@@ -175,3 +175,7 @@
 {"timestamp":"2025-07-25T03:33:44.978935","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:34:15.489561","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:34:46.482225","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:34:50.436952","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:35:21.618956","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:35:52.367458","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:36:23.182973","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_weater_api.py","logger":"airflow.models.dagbag.DagBag"}

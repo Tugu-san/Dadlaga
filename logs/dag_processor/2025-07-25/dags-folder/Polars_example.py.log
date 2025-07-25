@@ -175,3 +175,7 @@
 {"timestamp":"2025-07-25T03:33:43.754559","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:34:14.288644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:34:45.245679","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:34:50.919223","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:35:21.569557","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:35:51.914667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:36:22.763019","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
