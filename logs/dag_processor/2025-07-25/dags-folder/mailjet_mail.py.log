@@ -119,3 +119,5 @@
 {"timestamp":"2025-07-25T03:00:43.910375","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:01:14.589075","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:01:44.854848","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:02:14.970537","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:02:45.490146","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
