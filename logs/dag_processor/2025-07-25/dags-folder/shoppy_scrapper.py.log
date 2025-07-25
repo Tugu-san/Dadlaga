@@ -123,3 +123,14 @@
 {"timestamp":"2025-07-25T03:03:55.644484","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:26.463485","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:56.932518","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:27.378445","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:57.664986","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:30.868667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:02.587455","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:34.220686","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:06.110519","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:37.192538","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:08.934967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:39.770259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:10.809013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:41.423333","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}

@@ -136,3 +136,12 @@
 {"timestamp":"2025-07-25T03:03:46.206178","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:03:46.942838","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:03:47.045168","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:23.243293","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:57.221816","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:28.184568","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:58.386544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:29.216956","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:59.914381","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:30.813416","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:01.563676","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:32.614583","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}

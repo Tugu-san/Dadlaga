@@ -44,7 +44,7 @@ def dag_with_212_data():
 
     @task()
     def save_to_postgres(df_transposed):
-        pg_hook = PostgresHook(postgres_conn_id="source_dest")
+        pg_hook = PostgresHook(postgres_conn_id="dest_postgres")
         conn = pg_hook.get_conn()
         cursor = conn.cursor()
         # Dynamically create table based on dataframe columns

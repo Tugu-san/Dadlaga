@@ -59,7 +59,7 @@ def etl_example_workflow():
     def transfer_pg_to_pg():
         from airflow.providers.postgres.hooks.postgres import PostgresHook
         src = PostgresHook(postgres_conn_id="source_postgres").get_conn()
-        dest = PostgresHook(postgres_conn_id="source_dest").get_conn()
+        dest = PostgresHook(postgres_conn_id="dest_postgres").get_conn()
 
         src_cur = src.cursor()
         dest_cur = dest.cursor()

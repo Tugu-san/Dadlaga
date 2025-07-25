@@ -121,3 +121,14 @@
 {"timestamp":"2025-07-25T03:03:45.251357","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:16.089812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:46.988958","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:17.552304","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:48.923510","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:29.731753","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:00.876802","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:33.298887","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:05.107992","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:36.315914","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:08.159644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:39.070155","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:09.907217","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:40.789155","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Nomin_web_scrap.py","logger":"airflow.models.dagbag.DagBag"}

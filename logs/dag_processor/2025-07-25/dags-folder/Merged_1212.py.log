@@ -121,3 +121,14 @@
 {"timestamp":"2025-07-25T03:03:39.725268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:10.528551","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:04:41.475732","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:11.946423","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:05:43.177297","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:27.177450","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:08:59.739964","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:09:31.556133","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:02.757625","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:10:34.582459","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:05.338827","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:11:36.319385","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:07.096682","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:12:38.079384","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Merged_1212.py","logger":"airflow.models.dagbag.DagBag"}
