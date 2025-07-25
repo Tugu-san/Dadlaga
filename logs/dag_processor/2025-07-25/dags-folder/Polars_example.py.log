@@ -179,3 +179,6 @@
 {"timestamp":"2025-07-25T06:35:21.569557","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:35:51.914667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:36:22.763019","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:26.576601","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:57.098078","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:51:27.851163","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}

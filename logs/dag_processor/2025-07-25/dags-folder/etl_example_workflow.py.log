@@ -180,3 +180,6 @@
 {"timestamp":"2025-07-25T06:35:18.866496","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:35:49.436508","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:36:20.370293","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:23.946474","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:54.208826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:51:24.322278","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}

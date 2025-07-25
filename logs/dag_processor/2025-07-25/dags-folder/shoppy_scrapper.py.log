@@ -181,3 +181,6 @@
 {"timestamp":"2025-07-25T06:35:20.884198","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:35:51.271716","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:36:21.624744","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:26.063033","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:50:56.272667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T06:51:26.464792","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
