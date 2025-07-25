@@ -7,4 +7,4 @@ deploy:
     - echo "Deploying Airflow DAGs to your Airflow server!"
     - scp -r dags/* airflow@airflow:/opt/airflow/dags
   only:
-    - master
+    - new-feature
