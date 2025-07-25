@@ -148,14 +148,17 @@ services:
     volumes:
     - pgadmin:/var/lib/pgadmin
 
-  deployment:
-    image: python:3.11
-    container_name: dag_deployment
+  webserver:
+    build: .
+    command: airflow standalone
+    ports:
+      - "8080:8080"
+    environment:
+      AIRFLOW__CORE__LOAD_EXAMPLES: "False"
+      AIRFLOW__CORE__EXECUTOR: "SequentialExecutor"
+      AIRFLOW__CORE__DAGS_FOLDER: "/app/dags"
     volumes:
-      - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags  # Airflow-тай ижил volume
-    working_dir: /opt/airflow/dags
-    entrypoint: tail -f /dev/null
-
+      - ./dags:/app/dags
 
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
