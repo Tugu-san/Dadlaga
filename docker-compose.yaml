@@ -148,6 +148,15 @@ services:
     volumes:
     - pgadmin:/var/lib/pgadmin
 
+  deployment:
+    image: python:3.11
+    container_name: dag_deployment
+    volumes:
+      - ${AIRFLOW_PROJ_DIR:-.}/dags:/opt/airflow/dags  # Airflow-тай ижил volume
+    working_dir: /opt/airflow/dags
+    entrypoint: tail -f /dev/null
+
+
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
     # https://redis.io/blog/redis-adopts-dual-source-available-licensing/
