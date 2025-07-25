@@ -1,10 +1,14 @@
-stages: 
+stages:
   - deploy
 
-deploy:
+deploy_dag:
   stage: deploy
+  image: docker:latest
+  services:
+    - docker:dind
   script:
-    - echo "Deploying Airflow DAGs to your Airflow server!"
-    - scp -r dags/* airflow@airflow:/opt/airflow/dags
+    - echo "Deploying DAG to Airflow..."
+    - docker context create local || true
+    - docker cp dags/emart_scraper.py dag_deployment:/opt/airflow/dags/
   only:
-    - new-feature
+    - main
