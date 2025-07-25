@@ -116,3 +116,6 @@
 {"timestamp":"2025-07-25T02:59:12.948161","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T02:59:43.248399","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T03:00:13.524209","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:00:43.920959","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:01:14.598798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T03:01:44.871542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
