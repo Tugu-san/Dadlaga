@@ -186,3 +186,17 @@
 {"timestamp":"2025-07-25T06:50:24.739397","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:50:54.913811","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-25T06:51:25.688518","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:29:36.268505","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:30:06.839370","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:30:37.590117","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:31:07.692599","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:31:38.309408","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:32:08.628677","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:32:39.200237","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:33:10.199337","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:33:41.089984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:34:12.034332","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:34:42.188139","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:35:12.503711","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:35:42.795720","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-25T07:36:13.580287","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
