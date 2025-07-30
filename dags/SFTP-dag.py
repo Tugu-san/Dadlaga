@@ -1,73 +1,87 @@
 from airflow import DAG
-from airflow.decorators import task
-from airflow.providers.sftp.hooks.sftp import SFTPHook
+from airflow.providers.sftp.operators.sftp import SFTPOperator
+from airflow.operators.python import PythonOperator
 from airflow.providers.postgres.hooks.postgres import PostgresHook
-from datetime import datetime
-import pandas as pd
-import tempfile
+from datetime import datetime, timedelta
+import os
+import csv
 
+# ─── Settings ────────────────────────────────────────────────────────────────
 default_args = {
     'owner': 'airflow',
-    'start_date': datetime(2025, 7, 1),
-    'retries': 1
+    'retries': 1,
+    'retry_delay': timedelta(minutes=1),
 }
 
-with DAG(
+dag = DAG(
     dag_id='sftp_to_postgres_pipeline',
-    schedule=None,
     default_args=default_args,
+    start_date=datetime(2025, 7, 28),
+    schedule=None,
     catchup=False
-) as dag:
+)
 
-    @task()
-    def download_from_sftp():
-        sftp_hook = SFTPHook(ssh_conn_id='sftp_conn')
-        remote_path = 'home/sftpuser/upload/text.csv'
+# ─── Step 0: Create PostgreSQL Table ─────────────────────────────────────────
+def create_table():
+    pg_hook = PostgresHook(postgres_conn_id='dest_postgres')
+    conn = pg_hook.get_conn()
+    cursor = conn.cursor()
 
-        # Түр файл үүсгэх
-        with tempfile.NamedTemporaryFile(mode='w+b', delete=False) as tmp_file:
-            local_path = tmp_file.name
-            sftp_hook.retrieve_file(remote_path, local_path)
-
-            # pandas ашиглан унших
-            df = pd.read_csv(local_path)
-
-        return df.to_dict(orient='records')
-    
-    @task()
-    def insert_to_postgres(records):
-        pg_hook = PostgresHook(postgres_conn_id='source_postgres')
-        conn = pg_hook.get_conn()
-        cursor = conn.cursor()
-
-        cursor.execute("""
-        CREATE TABLE IF NOT EXISTS products (
-            Order_ID int PRIMARY KEY,
-            Customer_ID varchar(255),
-            Customer_Name text,
-            Product text,
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS my_table (
+            Order_ID int primary key,
+            Customer_ID int,
+            Customer_Name varchar(50),
+            Product TEXT,
             Quantity int,
             Price float,
             Order_Date date,
-            Region varchar(255)
-        )
+            Region TEXT
+        );
     """)
-        
-        for row in records:
-            cursor.execute("""
-                INSERT INTO products (Order_ID, Customer_ID, Customer_Name, Product, Quantity, Price, Order_Date, Region)
-                VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-                ON CONFLICT (Invoice) DO NOTHING
-            """, (row['Order_ID'],
-                    row['Customer_ID'],
-                    row['Customer_Name'],
-                    row['Product'],
-                    row['Quantity'],
-                    row['Price'],
-                    row['Order_Date'],
-                    row['Region'] ))
-        conn.commit()
-        cursor.close()
+    conn.commit()
 
-    data = download_from_sftp()
-    insert_to_postgres(data)
+create_table_task = PythonOperator(
+    task_id='create_postgres_table',
+    python_callable=create_table,
+    dag=dag
+)
+
+# ─── Step 1: Download CSV from SFTP ──────────────────────────────────────────
+download_csv = SFTPOperator(
+    task_id='download_csv_from_sftp',
+    ssh_conn_id='sftp_conn',
+    local_filepath='/opt/airflow/include/orders.csv',
+    remote_filepath='/upload/data.csv',
+    operation='get',
+    create_intermediate_dirs=True,
+    dag=dag
+)
+
+# ─── Step 2: Load CSV into Postgres ──────────────────────────────────────────
+def load_csv_to_postgres():
+    pg_hook = PostgresHook(postgres_conn_id='dest_postgres')
+    conn = pg_hook.get_conn()
+    cursor = conn.cursor()
+
+    file_path = '/opt/airflow/include/orders.csv'
+
+    with open(file_path, 'r', encoding='utf-8') as f:
+        next(f)  # Skip header
+        cursor.copy_expert(
+            sql="""
+            COPY my_table(Order_ID, Customer_ID, Customer_Name, Product, Quantity, Price, Order_Date, Region)
+            FROM STDIN WITH CSV
+            """,
+            file=f
+        )
+    conn.commit()
+
+load_to_postgres = PythonOperator(
+    task_id='load_csv_to_postgres',
+    python_callable=load_csv_to_postgres,
+    dag=dag
+)
+
+# ─── DAG Dependencies ────────────────────────────────────────────────────────
+create_table_task >> download_csv >> load_to_postgres
