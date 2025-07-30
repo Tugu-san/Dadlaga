@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-30T03:00:14.741578","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:00:49.089367","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:01:20.777798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:01:51.480790","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/shoppy_scrapper.py","logger":"airflow.models.dagbag.DagBag"}

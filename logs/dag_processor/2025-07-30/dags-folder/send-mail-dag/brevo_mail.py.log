@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-30T03:00:13.650571","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:00:46.398996","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:01:16.971354","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T03:01:47.893596","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/brevo_mail.py","logger":"airflow.models.dagbag.DagBag"}
