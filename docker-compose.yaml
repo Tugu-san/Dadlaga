@@ -103,42 +103,11 @@ services:
       retries: 5
       start_period: 5s
     restart: always
-  
-  postgres_source:
-    image: postgres:15
-    environment:
-      POSTGRES_USER: source_user
-      POSTGRES_PASSWORD: source_pass
-      POSTGRES_DB: source_db
     ports:
-      - "5433:5432"
-    volumes:
-      - pg_source_data:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD", "pg_isready", "-U", "source_user"]
-      interval: 10s
-      retries: 5
-      start_period: 5s
-    restart: always
-
-  postgres_dest:
-    image: postgres:15
-    environment:
-      POSTGRES_USER: dest_user
-      POSTGRES_PASSWORD: dest_pass
-      POSTGRES_DB: dest_db
-    ports:
-      - "5434:5432"
-    volumes:
-      - pg_dest_data:/var/lib/postgresql/data
-    healthcheck:
-      test: ["CMD", "pg_isready", "-U", "dest_user"]
-      interval: 10s
-      retries: 5
-      start_period: 5s
-    restart: always
+    - "5432:5432"
 
   pgadmin:
+    container_name: pgadmin4_container
     image: dpage/pgadmin4
     ports:
     - "5050:80"
