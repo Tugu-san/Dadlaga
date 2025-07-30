@@ -117,6 +117,13 @@ services:
     volumes:
     - pgadmin:/var/lib/pgadmin
 
+  sftp:
+    image: atmoz/sftp
+    ports:
+      - "2222:22"
+    command: sftpuser:somethingsuspass:1001
+    volumes:
+    - sftp-data:/home/sftpuser/upload
 
   redis:
     # Redis is limited to 7.2-bookworm due to licencing change
@@ -353,3 +360,4 @@ volumes:
   pg_source_data:
   pg_dest_data:
   pgadmin:
+  sftp-data:
