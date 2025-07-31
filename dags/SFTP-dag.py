@@ -1,87 +1,74 @@
 from airflow import DAG
-from airflow.providers.sftp.operators.sftp import SFTPOperator
 from airflow.operators.python import PythonOperator
+from airflow.providers.sftp.hooks.sftp import SFTPHook
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 from datetime import datetime, timedelta
 import os
 import csv
 
-# ─── Settings ────────────────────────────────────────────────────────────────
 default_args = {
     'owner': 'airflow',
     'retries': 1,
-    'retry_delay': timedelta(minutes=1),
+    'retry_delay': timedelta(minutes=2),
 }
 
-dag = DAG(
-    dag_id='sftp_to_postgres_pipeline',
-    default_args=default_args,
-    start_date=datetime(2025, 7, 28),
-    schedule=None,
-    catchup=False
-)
+TARGET_FILENAME = "orders.csv"  # <<== энд хүссэн файлаа заана уу
+REMOTE_DIR = "/upload"
+LOCAL_DIR = "/opt/airflow/include/turshilt"
+TABLE_NAME = "orders" # <<== энд хүссэн table заана уу
 
-# ─── Step 0: Create PostgreSQL Table ─────────────────────────────────────────
-def create_table():
-    pg_hook = PostgresHook(postgres_conn_id='dest_postgres')
-    conn = pg_hook.get_conn()
-    cursor = conn.cursor()
+def download_target_file_from_sftp():
+    sftp_hook = SFTPHook(ftp_conn_id='sftp_conn')
+    os.makedirs(LOCAL_DIR, exist_ok=True)
 
-    cursor.execute("""
-        CREATE TABLE IF NOT EXISTS my_table (
-            Order_ID int primary key,
-            Customer_ID int,
-            Customer_Name varchar(50),
-            Product TEXT,
-            Quantity int,
-            Price float,
-            Order_Date date,
-            Region TEXT
-        );
-    """)
-    conn.commit()
+    files = sftp_hook.list_directory(REMOTE_DIR)
+    print(f"Number of files: {len(files)}")
+    if TARGET_FILENAME not in files:
+        raise FileNotFoundError(f"{TARGET_FILENAME} not found in {REMOTE_DIR}")
+    
+    local_file_path = os.path.join(LOCAL_DIR, TARGET_FILENAME)
+    remote_file_path = f"{REMOTE_DIR}/{TARGET_FILENAME}"
 
-create_table_task = PythonOperator(
-    task_id='create_postgres_table',
-    python_callable=create_table,
-    dag=dag
-)
+    sftp_hook.retrieve_file(remote_file_path, local_file_path)
+    print(f"Downloaded file: {TARGET_FILENAME}")
 
-# ─── Step 1: Download CSV from SFTP ──────────────────────────────────────────
-download_csv = SFTPOperator(
-    task_id='download_csv_from_sftp',
-    ssh_conn_id='sftp_conn',
-    local_filepath='/opt/airflow/include/orders.csv',
-    remote_filepath='/upload/data.csv',
-    operation='get',
-    create_intermediate_dirs=True,
-    dag=dag
-)
-
-# ─── Step 2: Load CSV into Postgres ──────────────────────────────────────────
 def load_csv_to_postgres():
+    local_file_path = os.path.join(LOCAL_DIR, TARGET_FILENAME)
     pg_hook = PostgresHook(postgres_conn_id='dest_postgres')
-    conn = pg_hook.get_conn()
-    cursor = conn.cursor()
+    
+    with open(local_file_path, mode='r', encoding='utf-8') as file:
+        reader = csv.reader(file)
+        header = next(reader)
 
-    file_path = '/opt/airflow/include/orders.csv'
+        rows = [tuple(row) for row in reader]
+    
+    insert_sql = f"""
+        INSERT INTO {TABLE_NAME} ({', '.join(header)})
+        VALUES %s
+        ON CONFLICT DO NOTHING
+    """
 
-    with open(file_path, 'r', encoding='utf-8') as f:
-        next(f)  # Skip header
-        cursor.copy_expert(
-            sql="""
-            COPY my_table(Order_ID, Customer_ID, Customer_Name, Product, Quantity, Price, Order_Date, Region)
-            FROM STDIN WITH CSV
-            """,
-            file=f
-        )
-    conn.commit()
+    pg_hook.insert_rows(TABLE_NAME, rows, target_fields=header)
+    print(f"Inserted {len(rows)} rows into {TABLE_NAME}")
 
-load_to_postgres = PythonOperator(
-    task_id='load_csv_to_postgres',
-    python_callable=load_csv_to_postgres,
-    dag=dag
-)
+with DAG(
+    dag_id='sftp_target_file_to_postgres',
+    default_args=default_args,
+    description='Download a target file from SFTP and load to Postgres',
+    schedule=None,
+    start_date=datetime(2025, 7, 30),
+    catchup=False
+) as dag:
 
-# ─── DAG Dependencies ────────────────────────────────────────────────────────
-create_table_task >> download_csv >> load_to_postgres
+    download_file = PythonOperator(
+        task_id='download_target_file_from_sftp',
+        python_callable=download_target_file_from_sftp
+    )
+
+    insert_data = PythonOperator(
+        task_id='load_csv_to_postgres',
+        python_callable=load_csv_to_postgres
+    )
+
+    download_file >> insert_data
+ 
