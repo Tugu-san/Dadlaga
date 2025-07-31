@@ -1,0 +1,4 @@
+{"timestamp":"2025-07-31T02:38:27.091042","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-31T02:38:27.091782","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T02:38:27.327288","level":"error","event":"DAG not found during start up","dag_id":"sftp_download_pipeline_v2","bundle":"BundleInfo(name='dags-folder', version=None)","path":"SFTP-dag.py","logger":"task"}
+{"timestamp":"2025-07-31T02:38:27.343822Z","level":"warning","event":"Process exited abnormally","exit_code":1,"logger":"task"}

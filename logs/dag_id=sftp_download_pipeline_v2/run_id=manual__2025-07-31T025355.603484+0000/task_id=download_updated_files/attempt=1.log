@@ -1,0 +1,17 @@
+{"timestamp":"2025-07-31T02:53:56.770769","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-31T02:53:56.771286","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T02:53:56.964170","level":"info","event":"Starting SFTP download task","logger":"root"}
+{"timestamp":"2025-07-31T02:53:56.973774","level":"info","event":"Connection Retrieved 'sftp_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-31T02:53:56.975861","level":"warning","event":"No Host Key Verification. This won't protect against Man-In-The-Middle attacks","logger":"airflow.task.hooks.airflow.providers.sftp.hooks.sftp.SFTPHook"}
+{"timestamp":"2025-07-31T02:53:56.987469","level":"info","event":"Connected (version 2.0, client OpenSSH_8.4p1)","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T02:53:57.064859","level":"info","event":"Authentication (password) successful!","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T02:53:57.680041","level":"info","event":"[chan 0] Opened sftp connection (server version 3)","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T02:53:57.682295","level":"info","event":"Found 3 files in remote directory: /upload","logger":"root"}
+{"timestamp":"2025-07-31T02:53:57.684172","level":"info","event":"Skipped: data_2025-07-31_0153.csv already exists","logger":"root"}
+{"timestamp":"2025-07-31T02:53:57.686261","level":"info","event":"Skipped: text_2025-07-30_0733.csv already exists","logger":"root"}
+{"timestamp":"2025-07-31T02:53:58.229522","level":"info","event":"[chan 1] Opened sftp connection (server version 3)","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T02:53:58.237298","level":"info","event":"[chan 1] sftp session closed.","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T02:53:58.237698","level":"info","event":"Downloaded: orders.csv → orders_2025-07-31_0154.csv","logger":"root"}
+{"timestamp":"2025-07-31T02:53:58.237792","level":"info","event":"[chan 0] sftp session closed.","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T02:53:58.237858","level":"info","event":"SFTP download task completed","logger":"root"}
+{"timestamp":"2025-07-31T02:53:58.237950","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

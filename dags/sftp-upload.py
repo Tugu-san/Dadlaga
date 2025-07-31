@@ -1,6 +1,5 @@
 from airflow import DAG
 from airflow.providers.sftp.operators.sftp import SFTPOperator
-from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 
 default_args = {
@@ -18,14 +17,15 @@ with DAG(
     catchup=False,
     tags=['sftp', 'csv', 'upload'],
 ) as dag:
-    
+
     upload_csv = SFTPOperator(
         task_id='upload_csv_file',
         ssh_conn_id='sftp_conn',
-        local_filepath='/opt/airflow/include/orders.csv',
-        remote_filepath = 'upload/data.csv',
+        local_filepath='/opt/airflow/include/turshilt/text.csv',
+        remote_filepath = 'upload/text.csv',
         operation='put',
         create_intermediate_dirs=True
     )
 
-    upload_csv
+upload_csv
+

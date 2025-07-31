@@ -1,0 +1,23 @@
+{"timestamp":"2025-07-31T03:24:16.741161","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-31T03:24:16.741938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T03:24:17.026739","level":"info","event":"Fetching file list from SFTP","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.045796","level":"info","event":"Connection Retrieved 'sftp_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-31T03:24:17.060576","level":"info","event":"Connection Retrieved 'dest_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-31T03:24:17.067808","level":"info","event":"Running statement: \n    CREATE TABLE IF NOT EXISTS file_metadata (\n        id SERIAL PRIMARY KEY,\n        filename TEXT NOT NULL,\n        inserted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP\n    );\n    , parameters: None","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.069156","level":"warning","event":"No Host Key Verification. This won't protect against Man-In-The-Middle attacks","logger":"airflow.task.hooks.airflow.providers.sftp.hooks.sftp.SFTPHook"}
+{"timestamp":"2025-07-31T03:24:17.083576","level":"info","event":"Connected (version 2.0, client OpenSSH_8.4p1)","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:24:17.183285","level":"info","event":"Authentication (password) successful!","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:24:17.890210","level":"info","event":"[chan 0] Opened sftp connection (server version 3)","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:24:17.893148","level":"info","event":"Found 3 files in remote directory: /upload","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.893940","level":"info","event":"Inserting filename to DB: data_2025-07-31_0153.csv","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.898466","level":"info","event":"Running statement: INSERT INTO file_metadata (filename) VALUES (%s), parameters: ('data_2025-07-31_0153.csv',)","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.900375","level":"info","event":"Rows affected: 1","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.903090","level":"info","event":"Inserting filename to DB: text_2025-07-30_0733.csv","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.907710","level":"info","event":"Running statement: INSERT INTO file_metadata (filename) VALUES (%s), parameters: ('text_2025-07-30_0733.csv',)","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.909192","level":"info","event":"Rows affected: 1","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.912518","level":"info","event":"Inserting filename to DB: orders_2025-07-31_0154.csv","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.926023","level":"info","event":"Running statement: INSERT INTO file_metadata (filename) VALUES (%s), parameters: ('orders_2025-07-31_0154.csv',)","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.928225","level":"info","event":"Rows affected: 1","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T03:24:17.931065","level":"info","event":"[chan 0] sftp session closed.","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:24:17.932749","level":"info","event":"Task complete: File list saved to PostgreSQL.","logger":"root"}
+{"timestamp":"2025-07-31T03:24:17.933260","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}

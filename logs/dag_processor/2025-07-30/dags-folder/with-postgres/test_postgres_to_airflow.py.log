@@ -500,3 +500,15 @@
 {"timestamp":"2025-07-30T09:56:01.033632","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:31.651833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:57:02.540628","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:33.594839","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:04.338674","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:35.104131","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:05.989737","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:36.737123","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:07.416864","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:38.461517","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:09.397605","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:40.154252","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:10.856450","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:41.578814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:12.492227","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/test_postgres_to_airflow.py","logger":"airflow.models.dagbag.DagBag"}

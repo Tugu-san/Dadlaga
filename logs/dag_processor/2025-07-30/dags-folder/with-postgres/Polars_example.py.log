@@ -505,3 +505,15 @@
 {"timestamp":"2025-07-30T09:55:54.218522","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:24.926225","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:55.767930","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:26.892867","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:57.562571","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:28.325838","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:59.208910","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:30.036973","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:00.711795","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:31.649987","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:02.669465","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:33.431153","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:04.082173","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:34.862984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:05.727861","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/Polars_example.py","logger":"airflow.models.dagbag.DagBag"}

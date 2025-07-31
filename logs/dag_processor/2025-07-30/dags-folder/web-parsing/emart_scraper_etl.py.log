@@ -505,3 +505,15 @@
 {"timestamp":"2025-07-30T09:55:54.242963","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:24.949508","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:55.809215","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:26.908645","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:57.577647","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:28.337842","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:59.231618","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:30.065544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:00.731127","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:31.681439","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:02.693281","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:33.452532","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:04.100778","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:34.881578","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:05.748981","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/web-parsing/emart_scraper_etl.py","logger":"airflow.models.dagbag.DagBag"}

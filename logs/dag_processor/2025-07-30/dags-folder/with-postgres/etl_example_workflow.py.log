@@ -506,3 +506,15 @@
 {"timestamp":"2025-07-30T09:56:02.715630","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:33.332056","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:57:04.232120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:35.251960","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:06.038210","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:36.752352","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:07.611017","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:38.459414","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:09.056736","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:40.127706","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:11.062151","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:41.769211","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:12.485556","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:43.223103","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:14.136447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-postgres/etl_example_workflow.py","logger":"airflow.models.dagbag.DagBag"}

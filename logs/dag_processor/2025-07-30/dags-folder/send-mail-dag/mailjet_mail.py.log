@@ -505,3 +505,15 @@
 {"timestamp":"2025-07-30T09:55:54.586218","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:25.204929","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:56.113088","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:27.140607","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:57.839587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:28.602280","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:59.518137","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:30.288556","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:00.965470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:31.957530","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:02.924894","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:33.684413","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:04.365211","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:35.132657","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:05.998818","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/send-mail-dag/mailjet_mail.py","logger":"airflow.models.dagbag.DagBag"}

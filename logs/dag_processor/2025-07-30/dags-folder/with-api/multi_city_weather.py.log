@@ -500,3 +500,14 @@
 {"timestamp":"2025-07-30T09:56:12.163140","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:42.744028","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:57:13.668425","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:45.006718","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:15.946292","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:46.719860","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:17.545703","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:48.413010","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:18.947676","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:49.931732","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:20.810243","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:51.501252","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:22.279105","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:53.013246","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/with-api/multi_city_weather.py","logger":"airflow.models.dagbag.DagBag"}

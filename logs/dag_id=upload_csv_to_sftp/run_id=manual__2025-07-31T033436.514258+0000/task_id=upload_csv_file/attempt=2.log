@@ -1,0 +1,17 @@
+{"timestamp":"2025-07-31T03:35:21.683665","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-31T03:35:21.684134","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-upload.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T03:35:21.841971","level":"info","event":"sftp_hook not provided or invalid. Trying ssh_conn_id to create SFTPHook.","logger":"airflow.task.operators.airflow.providers.sftp.operators.sftp.SFTPOperator"}
+{"timestamp":"2025-07-31T03:35:21.851329","level":"info","event":"Connection Retrieved 'sftp_conn'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-31T03:35:21.851686","level":"warning","event":"No Host Key Verification. This won't protect against Man-In-The-Middle attacks","logger":"airflow.task.hooks.airflow.providers.sftp.hooks.sftp.SFTPHook"}
+{"timestamp":"2025-07-31T03:35:21.860186","level":"info","event":"Connected (version 2.0, client OpenSSH_8.4p1)","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:35:21.943513","level":"info","event":"Authentication (password) successful!","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:35:22.500965","level":"info","event":"[chan 0] Opened sftp connection (server version 3)","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:35:22.501677","level":"info","event":"[chan 0] sftp session closed.","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:35:22.502084","level":"info","event":"upload already exists","logger":"airflow.task.hooks.airflow.providers.sftp.hooks.sftp.SFTPHook"}
+{"timestamp":"2025-07-31T03:35:22.502202","level":"info","event":"Starting to transfer file from /opt/airflow/include/turshilt/orders.csv to upload/orders.csv","logger":"airflow.task.operators.airflow.providers.sftp.operators.sftp.SFTPOperator"}
+{"timestamp":"2025-07-31T03:35:22.503396","level":"warning","event":"No Host Key Verification. This won't protect against Man-In-The-Middle attacks","logger":"airflow.task.hooks.airflow.providers.sftp.hooks.sftp.SFTPHook"}
+{"timestamp":"2025-07-31T03:35:22.512076","level":"info","event":"Connected (version 2.0, client OpenSSH_8.4p1)","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:35:22.586109","level":"info","event":"Authentication (password) successful!","logger":"paramiko.transport"}
+{"timestamp":"2025-07-31T03:35:23.263076","level":"info","event":"[chan 0] Opened sftp connection (server version 3)","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:35:23.270085","level":"info","event":"[chan 0] sftp session closed.","logger":"paramiko.transport.sftp"}
+{"timestamp":"2025-07-31T03:35:23.270697","level":"info","event":"Pushing xcom","ti":"RuntimeTaskInstance(id=UUID('01985e8c-7a1a-7f3d-b4e8-a2b165871513'), task_id='upload_csv_file', dag_id='upload_csv_to_sftp', run_id='manual__2025-07-31T03:34:36.514258+00:00', try_number=2, map_index=-1, hostname='e4c2f86c7925', context_carrier={}, task=<Task(SFTPOperator): upload_csv_file>, bundle_instance=LocalDagBundle(name=dags-folder), max_tries=2, start_date=datetime.datetime(2025, 7, 31, 3, 35, 21, 476784, tzinfo=datetime.timezone.utc), end_date=None, state=<TaskInstanceState.RUNNING: 'running'>, is_mapped=False, rendered_map_index=None, log_url='http://localhost:8080/dags/upload_csv_to_sftp/runs/manual__2025-07-31T03%3A34%3A36.514258%2B00%3A00/tasks/upload_csv_file?try_number=2')","logger":"task"}

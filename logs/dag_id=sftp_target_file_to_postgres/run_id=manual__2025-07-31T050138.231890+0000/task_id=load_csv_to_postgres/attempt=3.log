@@ -1,0 +1,7 @@
+{"timestamp":"2025-07-31T05:02:25.627813","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-07-31T05:02:25.628326","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T05:02:25.812741","level":"info","event":"Connection Retrieved 'dest_postgres'","logger":"airflow.hooks.base"}
+{"timestamp":"2025-07-31T05:02:25.819562","level":"info","event":"Loaded 3 rows into orders so far","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T05:02:25.819911","level":"info","event":"Done loading. Loaded a total of 3 rows into orders","logger":"airflow.task.hooks.airflow.providers.postgres.hooks.postgres.PostgresHook"}
+{"timestamp":"2025-07-31T05:02:25.820098","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
+{"timestamp":"2025-07-31T05:02:25.821139Z","level":"info","event":"Inserted 3 rows into orders","chan":"stdout","logger":"task"}

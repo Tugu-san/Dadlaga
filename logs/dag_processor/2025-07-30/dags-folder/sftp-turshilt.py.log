@@ -335,3 +335,15 @@
 {"timestamp":"2025-07-30T09:55:49.436033","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:20.145566","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
 {"timestamp":"2025-07-30T09:56:50.735966","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:21.913690","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:57:52.684166","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:23.449907","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:58:54.456545","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:25.094788","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T09:59:55.961849","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:26.781612","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:00:57.915233","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:28.663638","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:01:59.259802","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:02:30.140925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-30T10:03:00.960468","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/sftp-turshilt.py","logger":"airflow.models.dagbag.DagBag"}
