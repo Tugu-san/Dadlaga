@@ -21,8 +21,8 @@ with DAG(
         from mailjet_rest import Client
 
         # Best practice: Store these in environment variables for security
-        MAILJET_API_KEY = 'f4129f12edcb297538d927bf479e9df8'
-        MAILJET_API_SECRET = '427e512e949f23e82cbf7a6d6e131232'
+        MAILJET_API_KEY = "{{var.value.get('mailjet_api_key')}}"
+        MAILJET_API_SECRET = "{{var.value.get('MAILJET_API_SECRET')}}"
 
         # Email content
         from_email = 'ttogoldor144@gmail.com'

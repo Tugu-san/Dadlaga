@@ -12,7 +12,7 @@ with DAG(
     dag_id='brevo_mail_dag_v2',
     default_args=default_args,
     start_date=datetime(2025, 7, 22),
-    schedule='@hourly',
+    schedule='33 17 30-1 * *',
     catchup=False,
     tags=['email', 'brevo']
 ) as dag:
@@ -24,7 +24,7 @@ with DAG(
 
         # Configure API key authorization: api-key
         configuration = sib_api_v3_sdk.Configuration()
-        configuration.api_key['api-key'] = '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'  # Replace with your actual API key
+        configuration.api_key['api-key'] = "{{ var.value.get('brevo_api_key')}}"  # Replace with your actual API key
 
         # Create an instance of the API class
         api_instance = sib_api_v3_sdk.TransactionalEmailsApi(sib_api_v3_sdk.ApiClient(configuration))
