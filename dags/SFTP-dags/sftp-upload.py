@@ -22,7 +22,7 @@ with DAG(
     default_args=default_args,
     description='Uploads a local CSV file to the SFTP server',
     start_date=datetime(2025, 7, 28),
-    schedule='* 23 * * *',
+    schedule='0 0 * * *',
     catchup=False,
     tags=['sftp', 'csv', 'upload'],
 ) as dag:

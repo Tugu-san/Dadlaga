@@ -78,7 +78,8 @@ x-airflow-common:
     - ${AIRFLOW_PROJ_DIR:-.}/config:/opt/airflow/config
     - ${AIRFLOW_PROJ_DIR:-.}/plugins:/opt/airflow/plugins
     - ${AIRFLOW_PROJ_DIR:-.}/include:/opt/airflow/include
-    - ${AIRFLOW_PROJ_DIR:-.}/include:/opt/airflow/external_scripts
+    - ${AIRFLOW_PROJ_DIR:-.}/scripts:/opt/airflow/scripts
+    - ${AIRFLOW_PROJ_DIR:-.}/tmp:/opt/airflow/tmp
     
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:

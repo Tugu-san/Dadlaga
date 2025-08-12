@@ -8,5 +8,5 @@ sib_api_v3_sdk
 mailjet-rest
 requests
 apache-airflow-providers-ftp
-apache-airflow-providers-sftp
+apache-airflow.providers.sftp
 apache-airflow-providers-postgres
