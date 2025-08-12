@@ -3,7 +3,6 @@ from datetime import datetime, timedelta
 from airflow.providers.postgres.hooks.postgres import PostgresHook
 import requests
 import pandas as pd
-import psycopg2
 
 API_KEY = "{{var.value.get('weather_api_key')}}"
 CITY = 'Ulaanbaatar'

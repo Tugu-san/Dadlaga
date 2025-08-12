@@ -1,0 +1,1236 @@
+{"timestamp":"2025-08-12T02:50:55.501350","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:06.590663","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:07.268952Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:51:16.551597","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:17.276015Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:51:26.005826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:26.732227Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:51:36.893911","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:37.504429Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:51:46.786128","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:47.428556Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:51:56.114096","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:51:56.837459Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:06.929911","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:07.555080Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:16.825616","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:17.404527Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:26.295837","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:27.054867Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:36.290345","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:37.021111Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:46.310564","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:46.920089Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:52:56.397545","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:52:57.212725Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:06.645760","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:07.139529Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:16.418298","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:16.864842Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:26.487988","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:26.959603Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:36.508833","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:36.951626Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:47.248680","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:47.707882Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:53:57.304030","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:53:57.762772Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:07.453393","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:07.920296Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:17.196633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:17.697515Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:27.305771","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:27.757520Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:36.898290","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:37.371065Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:46.681046","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:47.207964Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:54:56.821376","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:54:57.273012Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:07.653192","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:08.118281Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:17.390834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:17.873625Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:27.595298","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:28.120049Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:36.956544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:37.456319Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:47.766015","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:48.296471Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:55:57.023129","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:55:57.573208Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:07.022281","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:07.487885Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:17.193335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:17.701067Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:27.373694","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:27.796719Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:37.558478","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:38.022083Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:48.004686","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:48.433815Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:56:58.042205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:56:58.489213Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:07.439051","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:07.945589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:17.673165","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:18.104499Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:27.555431","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:27.982837Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:37.931556","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:38.403259Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:47.422602","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:47.851185Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:57:57.270895","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:57:57.697028Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:07.854251","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:08.283324Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:18.101626","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:18.538338Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:27.815405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:28.267200Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:37.480241","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:37.892397Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:47.667118","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:48.105774Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:58:58.392983","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:58:58.853440Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:08.107514","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:08.539777Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:18.290379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:18.711670Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:27.995834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:28.425780Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:37.598286","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:38.064841Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:47.700903","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:48.123272Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T02:59:58.419372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T02:59:58.891187Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:07.675644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:08.137752Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:17.991856","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:18.609755Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:27.936025","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:28.430120Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:37.847892","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:38.557215Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:48.047725","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:48.521084Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:00:57.826342","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:00:58.281182Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:07.997135","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:08.737945Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:18.481809","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:18.950164Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:28.225511","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:28.665033Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:38.237516","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:38.737812Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:48.121656","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:48.682641Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:01:58.311981","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:01:58.859410Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:08.524280","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:08.965227Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:18.803893","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:19.368974Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:28.337122","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:28.784782Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:38.423808","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:38.869152Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:48.966019","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:49.555589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:02:58.450846","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:02:58.911851Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:08.631199","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:09.086967Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:19.104700","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:19.587626Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:28.595796","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:29.121324Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:38.943157","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:39.404391Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:48.523715","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:48.992133Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:03:58.840846","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:03:59.310163Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:09.082826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:04:09.563975Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:18.934979","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:04:19.414765Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:29.254562","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:04:29.729515Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:39.481051","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:04:40.073217Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:49.215443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:04:49.668787Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:04:59.641586","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:00.144072Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:08.845945","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:09.443398Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:18.931692","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:19.407539Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:28.800050","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:29.251094Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:38.833878","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:39.321469Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:49.069388","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:49.519926Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:05:59.384212","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:05:59.834520Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:09.259163","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:09.804030Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:19.106496","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:19.647604Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:29.008913","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:29.481865Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:40.006875","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:40.535013Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:49.830514","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:50.390934Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:06:59.123773","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:06:59.613341Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:09.503135","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:07:10.041598Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:19.538887","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:07:19.982234Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:29.450249","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:07:29.922359Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:40.105337","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:07:40.736144Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:49.248312","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:07:49.735128Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:07:59.827628","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:00.493668Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:09.664759","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:10.130408Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:19.660270","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:20.103645Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:30.082435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:30.561455Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:39.551734","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:39.989595Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:49.551524","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:08:50.014586Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:08:59.941434","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:00.518824Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:09:10.399602","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:10.983619Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:09:20.461149","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:20.890197Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:09:29.877921","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:30.370455Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:09:40.148425","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:40.944122Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:09:50.463447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:09:51.243589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:00.547402","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:01.209898Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:10.379540","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:10.863152Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:20.504625","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:21.227836Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:30.151961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:30.817181Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:39.884643","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:40.343908Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:49.930020","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:10:50.583637Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:10:59.957260","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:11:00.615110Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:11:10.464365","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:11:11.084143Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:11:20.767360","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:11:21.416898Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T03:11:30.049072","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T03:11:30.925192Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:50:27.653639","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:50:43.386658","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:50:44.067598Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:50:53.155921","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:50:53.937058Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:03.684471","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:04.336049Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:13.607553","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:14.213810Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:23.498589","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:24.186933Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:33.403706","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:34.201400Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:44.135356","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:44.747068Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:51:54.018982","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:51:54.688770Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:04.141416","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:04.773841Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:13.791872","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:14.550830Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:23.846160","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:24.518352Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:33.708428","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:34.325178Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:43.591743","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:44.105073Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:52:54.455826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:52:54.914378Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:03.551798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:04.030880Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:14.339471","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:14.774668Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:24.045070","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:24.477228Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:33.824731","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:34.318683Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:43.841492","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:44.411312Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:53:53.747644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:53:54.588253Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:03.795215","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:04.401771Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:14.029387","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:14.587332Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:23.895237","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:24.391206Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:33.925220","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:34.406332Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:44.329163","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:44.867956Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:54:54.146269","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:54:54.605086Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:04.302390","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:04.859692Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:14.896410","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:15.435060Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:24.570313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:25.126052Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:34.332162","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:34.891973Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:44.844014","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:45.284060Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:55:54.589547","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:55:55.087571Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:04.213035","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:04.696826Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:14.261412","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:14.760714Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:25.227576","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:25.692273Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:34.462507","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:34.987034Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:44.517431","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:45.147245Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:56:55.067217","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:56:55.544554Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:05.283680","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:05.747645Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:14.848488","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:15.314754Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:24.724001","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:25.167160Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:34.973299","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:35.447544Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:44.736860","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:45.163641Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:57:55.509754","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:57:55.992899Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:05.701986","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:06.141874Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:14.883261","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:15.331129Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:25.378291","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:25.817787Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:35.277824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:35.755768Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:45.599435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:46.086544Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:58:54.996416","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:58:55.443152Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:04.973377","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:05.418121Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:15.345772","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:15.770439Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:25.181462","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:25.680816Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:35.144477","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:35.760048Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:46.031651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:46.592381Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T05:59:56.101973","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T05:59:56.566197Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:05.884966","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:06.379989Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:16.094673","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:16.606933Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:25.657677","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:26.126567Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:35.543975","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:35.987743Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:45.381104","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:45.935151Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:00:55.358059","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:00:55.804742Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:06.210848","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:06.661663Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:15.802955","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:16.258035Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:26.007456","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:26.473019Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:35.919305","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:36.381437Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:45.493014","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:45.986669Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:01:55.847760","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:01:56.386729Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:05.848768","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:06.307244Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:15.779702","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:16.699587Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:26.655114","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:27.187174Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:36.644624","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:37.139729Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:45.879633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:46.354277Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:02:55.856527","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:02:56.322842Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:06.891254","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:07.504837Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:15.957874","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:16.478820Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:26.322993","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:26.874708Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:36.059259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:36.544207Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:46.328252","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:46.824409Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:03:56.254876","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:03:56.733219Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:06.118814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:06.572219Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:16.357659","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:16.821025Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:26.765987","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:27.238537Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:36.754280","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:37.204087Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:46.924996","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:47.414508Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:04:57.085313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:04:57.579180Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:06.991343","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:07.439543Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:17.227925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:17.676360Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:26.496634","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:26.920872Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:37.300628","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:37.752712Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:46.512377","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:46.956565Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:05:56.941847","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:05:57.485090Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:06.894570","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:07.510199Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:17.337354","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:17.879330Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:26.739618","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:27.222086Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:36.899423","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:37.371772Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:46.933158","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:47.424322Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:06:57.442497","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:06:57.888426Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:07.518547","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:08.075050Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:17.553999","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:18.104330Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:26.872223","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:27.317482Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:37.317934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:37.811094Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:47.094587","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:47.603109Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:07:57.831104","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:07:58.311464Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:07.712871","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:08.167273Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:17.299298","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:17.771275Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:27.101021","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:27.534276Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:37.962863","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:38.605608Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:47.101934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:47.563731Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:08:57.190598","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:08:57.860049Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:07.677985","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:08.120806Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:18.075260","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:18.744773Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:27.664940","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:28.435892Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:38.100643","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:38.731191Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:47.410087","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:48.055977Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:09:57.943185","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:09:58.668612Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:07.563805","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:08.410952Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:18.191051","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:18.825667Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:27.730321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:28.464426Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:37.590693","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:38.320303Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:48.117676","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:48.838875Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:10:57.689501","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:10:58.352827Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:08.170340","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:08.997907Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:17.983791","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:18.619913Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:28.509827","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:29.134089Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:38.087523","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:38.778805Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:47.789703","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:48.419798Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:11:58.276239","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:11:58.958028Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:08.746420","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:09.405272Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:18.717703","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:19.430343Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:28.265682","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:28.906925Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:38.481165","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:39.155257Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:48.324372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:49.122947Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:12:58.010722","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:12:58.677682Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:08.255428","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:08.870593Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:18.401869","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:19.185301Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:28.938667","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:29.641941Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:38.218506","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:38.844068Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:48.417372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:49.166618Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:13:58.411005","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:13:59.117947Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:08.975954","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:09.620894Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:19.149199","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:19.828309Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:29.208030","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:29.909052Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:38.374810","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:39.013358Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:48.944444","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:49.716524Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:14:58.747309","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:14:59.378725Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:08.598082","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:09.418782Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:18.513233","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:19.197774Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:28.915311","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:29.554520Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:38.591616","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:39.367560Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:49.146216","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:50.026423Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:15:58.833391","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:15:59.629696Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:09.448519","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:10.218955Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:19.177968","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:19.965586Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:29.634655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:30.436544Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:39.250983","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:39.902242Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:48.990227","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:49.611436Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:16:58.871780","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:16:59.533876Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:09.551099","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:17:10.207566Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:19.368270","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:17:20.075690Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:29.534897","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:17:30.238827Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:38.926083","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:17:39.664918Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:49.198141","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:17:49.918675Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:17:59.546297","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:00.329575Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:09.279068","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:09.987179Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:19.322150","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:20.114290Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:29.768470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:30.686258Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:39.631442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:40.411890Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:49.254058","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:18:50.387430Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:18:59.602479","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:00.452368Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:19:09.964205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:10.743912Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:19:19.584260","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:20.368266Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:19:29.424379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:30.118814Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:19:40.251540","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:40.954520Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:19:50.140189","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:19:50.936060Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:00.333447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:01.039070Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:10.257972","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:11.089605Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:20.567389","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:21.727549Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:30.544781","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:31.262714Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:40.608299","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:41.272813Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:50.579321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:20:51.238885Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:20:59.908585","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:00.617730Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:21:10.271945","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:10.931880Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:21:20.231923","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:20.895965Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:21:30.464783","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:31.225065Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:21:40.136943","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:40.777611Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:21:50.106247","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:21:50.798754Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:00.338116","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:01.015026Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:10.859168","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:11.490346Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:20.769896","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:21.443856Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:30.245902","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:31.055978Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:40.570480","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:41.246498Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:22:50.515314","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:22:51.147290Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:00.997398","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:01.651782Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:10.324567","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:11.003026Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:20.264411","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:20.900644Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:30.257267","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:30.968964Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:40.356634","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:41.038883Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:23:50.999611","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:23:51.609832Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:00.462824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:01.129477Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:11.247967","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:11.920072Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:21.021571","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:21.696998Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:30.531699","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:31.190851Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:40.674039","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:41.308647Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:24:50.838814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:24:51.464919Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:00.583702","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:01.275439Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:11.574820","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:12.255640Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:20.698022","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:21.327090Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:31.633402","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:32.295569Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:41.278991","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:41.975903Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:25:51.700191","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:25:52.353553Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:00.846254","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:01.558927Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:11.266934","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:11.985587Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:21.229450","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:21.882065Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:31.463449","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:32.143617Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:40.928633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:41.539154Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:26:51.227253","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:26:51.985473Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:01.720330","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:02.459593Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:11.549365","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:12.248025Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:21.589936","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:22.354917Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:31.992504","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:32.786778Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:41.835215","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:42.473109Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:27:51.145325","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:27:51.942743Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:01.241647","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:01.963786Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:11.493586","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:12.197911Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:21.805544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:22.839109Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:31.386282","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:32.090583Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:41.485708","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:42.313725Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:28:51.559938","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:28:52.191133Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:01.420063","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:02.052352Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:11.499699","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:12.145771Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:22.159353","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:22.772589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:31.810114","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:32.512159Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:41.777836","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:42.587144Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:29:52.081549","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:29:52.810387Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:02.002576","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:02.731321Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:11.990500","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:12.650002Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:21.671763","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:22.338718Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:32.489919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:33.229249Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:42.354684","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:43.157687Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:30:52.414034","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:30:52.970915Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:02.010664","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:02.478712Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:12.106254","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:12.589875Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:22.039817","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:22.533759Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:31.991910","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:32.488859Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:42.144306","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:42.701507Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:31:52.693372","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:31:53.162028Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:02.486571","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:02.971787Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:12.558458","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:12.994208Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:22.962387","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:23.519299Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:32.669313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:33.122936Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:42.259550","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:42.765307Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:32:52.975457","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:32:53.441866Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:02.591527","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:03.036138Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:12.304395","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:12.723992Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:22.485731","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:23.068060Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:33.183434","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:33.685853Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:43.064203","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:43.508806Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:33:52.716996","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:33:53.220125Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:03.393834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:03.932807Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:12.829258","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:13.262223Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:22.548748","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:22.988916Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:32.562841","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:32.980089Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:42.591711","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:43.072524Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:34:53.203364","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:34:53.627914Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:03.206080","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:03.676015Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:13.149466","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:13.632070Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:22.725583","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:23.156885Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:32.742892","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:33.168165Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:42.833757","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:43.416175Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:35:53.030122","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:35:53.500246Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:03.563295","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:04.044271Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:13.563919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:14.008954Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:23.218145","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:23.703668Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:32.969241","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:33.424318Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:42.987131","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:43.511980Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:36:53.191383","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:36:53.623258Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:03.497932","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:03.942833Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:13.211880","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:13.672599Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:23.436029","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:23.868314Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:34.013362","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:34.586515Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:43.852142","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:44.284984Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:37:53.550095","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:37:53.982933Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:03.893739","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:04.315987Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:13.538555","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:13.991041Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:23.520943","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:23.952268Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:33.403634","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:33.873677Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:43.590124","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:44.068435Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:38:53.884979","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:38:54.308491Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:03.763929","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:04.230953Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:14.000562","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:14.504145Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:23.551042","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:24.035190Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:34.468184","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:34.940429Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:43.686378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:44.116455Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:39:54.239914","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:39:54.666025Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:04.041448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:04.475426Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:14.558970","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:14.988608Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:23.942210","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:24.484533Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:34.484926","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:34.904821Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:44.152377","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:44.596578Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:40:54.663452","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:40:55.107118Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:04.148400","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:04.574366Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:14.778591","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:15.217033Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:24.267918","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:24.747994Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:33.988408","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:34.464813Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:44.791021","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:45.246786Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:41:54.836207","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:41:55.373154Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:04.559675","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:05.077388Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:14.309801","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:14.745930Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:24.220153","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:24.874548Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:35.079487","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:35.549774Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:44.978332","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:45.521930Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:42:55.170852","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:42:55.669587Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:04.815327","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:05.270075Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:14.489892","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:15.173809Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:24.766770","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:25.292687Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:34.324125","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:34.759043Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:45.075007","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:45.492061Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:43:55.208742","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:43:55.719067Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:44:04.467861","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:44:04.931795Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:44:14.478848","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:44:15.000733Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:44:24.962452","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:44:25.579354Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:44:34.643902","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:44:35.130278Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:47:24.562170","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:47:25.686665Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:47:38.807958","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:47:39.451974Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:47:49.622201","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:47:50.429929Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:47:59.325026","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:00.153813Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:48:09.431465","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:10.066126Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:48:19.353190","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:20.004253Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:48:29.046881","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:29.824152Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:48:39.048510","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:39.635630Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:48:49.942361","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:48:50.572200Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:00.011727","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:00.773105Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:09.859812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:10.486080Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:19.756727","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:20.371456Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:29.584853","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:30.065171Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:39.356230","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:39.858350Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:50.151380","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:50.618211Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:49:59.296612","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:49:59.753479Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:10.111599","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:50:10.579897Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:19.923715","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:50:20.509264Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:29.523242","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:50:30.055528Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:39.419093","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:50:39.925905Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:50.237455","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:50:50.730958Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:50:59.609118","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:00.094725Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:51:10.098645","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:10.564417Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:51:19.884171","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:20.475231Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:51:30.175015","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:30.831345Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:51:39.746454","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:40.258096Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:51:49.578824","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:51:50.083392Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:00.562630","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:01.058925Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:10.078608","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:10.542931Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:19.791155","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:20.255424Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:29.741532","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:30.350366Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:40.558303","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:41.046575Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:52:50.317749","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:52:50.815314Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:00.132205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:00.604757Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:10.630470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:11.145402Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:20.440093","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:20.944697Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:30.262138","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:30.960620Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:40.142998","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:40.721256Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:53:50.654334","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:53:51.172403Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:00.460727","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:00.948777Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:10.925752","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:11.404062Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:20.331521","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:20.854313Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:30.152442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:30.590590Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:40.636663","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:41.120381Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:54:50.357312","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:54:50.900604Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:00.230223","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:00.715058Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:10.807012","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:11.293198Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:20.477511","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:21.083717Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:30.408487","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:30.886004Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:40.987953","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:41.436208Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:55:50.659325","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:55:51.220210Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:00.542527","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:01.154547Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:11.333570","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:11.763274Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:21.076234","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:21.562878Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:30.930358","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:31.389879Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:40.551752","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:41.050666Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:56:50.889817","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:56:51.322240Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:00.606633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:01.120484Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:10.980331","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:11.437084Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:21.357646","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:21.852569Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:31.214443","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:31.682225Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:40.982564","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:41.677910Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:57:51.617324","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:57:52.102642Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:01.389433","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:01.862997Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:11.221812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:11.789184Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:21.126902","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:21.608144Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:31.999506","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:32.466062Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:41.429224","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:41.890559Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:58:51.834413","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:58:52.463013Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:01.783644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:02.255557Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:11.646296","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:12.113659Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:21.907317","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:22.385736Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:32.310242","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:32.730121Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:42.139432","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:42.615074Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T06:59:51.417379","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T06:59:51.854323Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:02.184931","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:02.689968Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:12.199205","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:12.700710Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:21.967995","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:22.439446Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:31.903577","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:32.435842Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:41.912001","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:42.510589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:00:52.024920","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:00:52.480491Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:01.833599","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:02.395646Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:11.845449","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:12.382673Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:21.735561","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:22.307374Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:32.256691","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:32.724743Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:42.130496","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:42.718733Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:01:52.080725","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:01:52.580285Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:01.877270","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:02.471189Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:11.907309","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:12.360806Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:22.009708","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:22.477732Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:32.849136","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:33.298395Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:42.709463","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:43.162589Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:02:52.612625","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:02:53.085162Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:02.451643","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:03.000236Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:12.286450","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:12.755043Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:22.131750","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:22.619519Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:32.260700","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:32.727124Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:43.173275","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:43.732528Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:03:52.684144","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:03:53.162909Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:03.159131","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:03.626056Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:13.016651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:13.546576Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:22.338498","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:22.859116Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:32.414321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:32.920950Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:42.755902","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:43.232848Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:04:52.496122","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:04:53.061231Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:03.037412","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:03.639295Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:12.517659","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:13.002660Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:22.893463","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:23.663109Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:32.706475","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:33.404268Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:42.933869","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:43.645909Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:05:52.783091","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:05:53.437217Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:02.824544","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:03.270592Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:13.273133","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:14.216024Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:22.757838","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:23.573681Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:33.703678","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:34.426791Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:43.426595","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:44.105259Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:06:53.032723","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:06:53.944494Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:03.825010","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:04.662115Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:13.497057","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:14.178650Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:23.925459","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:24.788246Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:33.091447","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:33.741705Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:43.723746","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:44.373495Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:07:53.541507","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:07:54.197781Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:03.374642","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:04.063652Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:14.007542","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:14.645258Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:23.873988","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:24.536175Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:33.865181","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:34.581201Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:43.781145","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:44.424381Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:08:53.720972","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:08:54.387432Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:04.141400","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:05.439235Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:13.997987","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:14.802257Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:23.594080","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:24.518875Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:34.336610","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:35.004253Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:43.691974","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:44.424786Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:09:53.890188","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:09:54.656885Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:03.755047","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:04.501744Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:14.084187","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:14.803016Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:24.410275","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:25.061962Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:33.719784","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:34.404707Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:44.128442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:44.850334Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:10:53.636441","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:10:54.275867Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:04.290485","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:04.957071Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:13.832075","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:14.600451Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:23.910687","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:24.739585Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:33.980041","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:34.635259Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:43.868814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:44.594906Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:11:54.763157","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:11:55.435655Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:03.999214","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:04.650503Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:13.996514","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:14.674926Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:24.649624","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:25.297935Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:34.115655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:34.959949Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:44.712651","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:45.463300Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:12:54.097366","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:12:54.815494Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:04.131166","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:04.860089Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:14.779292","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:15.426159Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:24.706304","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:25.474230Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:34.383048","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:35.059222Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:44.657769","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:45.547228Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:13:54.930359","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:13:55.631009Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:04.878064","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:05.531319Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:14.944702","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:15.728999Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:24.399334","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:25.009435Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:35.156462","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:35.798111Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:44.748633","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:45.391879Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:14:54.575865","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:14:55.709257Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:04.816951","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:05.558704Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:15.098769","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:15.942783Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:25.101481","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:25.742694Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:34.787053","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:35.457484Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:44.733853","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:45.404191Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}
+{"timestamp":"2025-08-12T07:15:54.754881","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/SFTP-dags/SFTP-main.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-12T07:15:55.419167Z","level":"warning","event":"Process exited abnormally","exit_code":126,"logger":"processor"}

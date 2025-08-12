@@ -24,7 +24,7 @@ def dag_with_212_data():
     
     @task()
     def extract_data():
-        url = "https://www2.1212.mn/tablesdata1212.aspx?ln=Mn&tbl_id=DT_NSO_0300_002V1&SOUM_select_all=1&SOUMSingleSelect=&YearY_select_all=1&YearYSingleSelect=&viewtype=table"
+        url = "{{var.value.get('1212_key')}}"
         response = requests.get(url)
         soup = BeautifulSoup(response.content, 'html.parser')
         

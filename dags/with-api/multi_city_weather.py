@@ -2,9 +2,8 @@ from airflow.decorators import dag, task
 from datetime import datetime, timedelta
 import requests
 import pandas as pd
-import psycopg2
 
-API_KEY = '3a9a94c3bed145b3a6515708250907'
+API_KEY = "{{var.value.get('weather_api_key')}}"
 
 
 default_args = {

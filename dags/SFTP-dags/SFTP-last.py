@@ -7,7 +7,7 @@ from airflow.decorators import dag, task
 from airflow.providers.sftp.sensors.sftp import SFTPSensor
 from airflow.providers.sftp.hooks.sftp import SFTPHook
 from airflow.providers.postgres.hooks.postgres import PostgresHook
-from airflow.operators.empty import EmptyOperator
+from airflow.providers.standard.operators.empty import EmptyOperator
 
 # --- Тогтмолууд (Өөрийн орчинд тохируулна уу) ---
 SFTP_CONN_ID = "sftp_conn"

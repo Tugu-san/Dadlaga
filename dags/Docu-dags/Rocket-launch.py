@@ -4,19 +4,19 @@ import pathlib
 import pendulum
 import requests
 from airflow import DAG
-from airflow.operators.bash import BashOperator
-from airflow.operators.python import PythonOperator
+from airflow.providers.standard.operators.bash import BashOperator
+from airflow.providers.standard.operators.python import PythonOperator
 
 def _get_pictures():
-    pathlib.Path("/tmp/images").mkdir(parents=True, exist_ok=True)
-    with open("/tmp/launches.json") as f:
+    pathlib.Path("/opt/airflow/tmp/images").mkdir(parents=True, exist_ok=True)
+    with open("/opt/airflow/tmp/launches.json") as f:
         launches = json.load(f)
         image_urls = [launch["image"] for launch in launches["results"]]
         for image_url in image_urls:
             try:
                 response = requests.get(image_url)
                 image_filename = image_url.split("/")[-1]
-                target_file = f"/tmp/images/{image_filename}"
+                target_file = f"/opt/airflow/tmp/images{image_filename}"
                 with open(target_file, "wb") as f:
                     f.write(response.content)
                 print(f"Downloaded {image_url} to {target_file}")
@@ -34,7 +34,7 @@ with DAG(#Энэ бол context manager аргачлал бөгөөд энэ б�
 ) as dag:
     download_launches = BashOperator(
         task_id="download_launches",
-        bash_command="curl -o /tmp/launches.json -L 'https://ll.thespacedevs.com/2.0.0/launch/upcoming'",
+        bash_command="curl -o /opt/airflow/tmp/launches.json -L 'https://ll.thespacedevs.com/2.0.0/launch/upcoming'",
         #BashOperator: bash_command-д заасан shell коммандыг ажиллуулдаг оператор. Бид curl коммандаар өгөгдлөө татаж байна.
     )
     get_pictures = PythonOperator(

@@ -3,7 +3,7 @@ import os
 
 from airflow.models.dag import DAG
 from airflow.providers.postgres.hooks.postgres import PostgresHook
-from airflow.operators.python import PythonOperator
+from airflow.providers.standard.operators.python import PythonOperator
 from airflow.providers.sftp.operators.sftp import SFTPOperator
 
 SFTP_CONN_ID = "sftp_conn"
